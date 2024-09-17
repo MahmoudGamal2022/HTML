@@ -1,0 +1,99 @@
+HTML Document Structure
+<!DOCTYPE html>: Declares the document type and version of HTML.
+<html>: Root element of an HTML document.
+<head>: Contains metadata and links to external resources.
+<title>: Specifies the title of the document, shown in the browser tab.
+<meta>: Provides metadata about the document.
+<link>: Links to external resources like stylesheets.
+<style>: Contains CSS styles.
+<script>: Defines client-side JavaScript.
+Document Sections
+<body>: Contains the content of the document.
+<header>: Represents introductory content or navigational links.
+<nav>: Defines navigation links.
+<section>: Represents a section of content.
+<article>: Defines a self-contained piece of content.
+<aside>: Represents content tangentially related to the content around it.
+<footer>: Represents the footer of a section or page.
+<main>: Represents the main content of the document.
+Text Content
+<h1> to <h6>: Define headings of different levels.
+<p>: Defines a paragraph.
+<br>: Inserts a line break.
+<hr>: Creates a horizontal rule.
+<pre>: Displays preformatted text.
+<blockquote>: Represents a block of quoted text.
+<cite>: Cites a creative work.
+<code>: Represents a single line of code.
+<samp>: Represents sample output from a program.
+<kbd>: Represents user input from a keyboard.
+<var>: Represents a variable in a mathematical expression or programming context.
+<small>: Renders text in a smaller size.
+<strong>: Indicates strong importance, typically bold.
+<em>: Indicates emphasized text, typically italicized.
+<mark>: Highlights text.
+<del>: Represents deleted text.
+<ins>: Represents inserted text.
+<sub>: Renders text as subscript.
+<sup>: Renders text as superscript.
+Lists
+<ul>: Defines an unordered list.
+<ol>: Defines an ordered list.
+<li>: Defines a list item.
+<dl>: Defines a description list.
+<dt>: Defines a term in a description list.
+<dd>: Defines a description or definition in a description list.
+Links and Anchors
+<a>: Defines a hyperlink.
+<area>: Defines a clickable area within an image map.
+<link>: Specifies relationships between documents.
+<nav>: Defines a set of navigation links.
+Forms
+<form>: Defines a form for user input.
+<input>: Defines an input control.
+<textarea>: Defines a multi-line text input control.
+<button>: Represents a clickable button.
+<select>: Defines a drop-down list.
+<option>: Defines an option in a drop-down list.
+<optgroup>: Groups related options in a drop-down list.
+<label>: Defines a label for a form control.
+<fieldset>: Groups related elements in a form.
+<legend>: Defines a caption for a <fieldset>.
+<datalist>: Contains a list of predefined options for an <input> element.
+<keygen>: (Deprecated) Used to generate a key pair for secure authentication.
+<output>: Represents the result of a calculation or user action.
+Tables
+<table>: Defines a table.
+<caption>: Provides a title or description for the table.
+<thead>: Groups the header content in a table.
+<tbody>: Groups the body content in a table.
+<tfoot>: Groups the footer content in a table.
+<tr>: Defines a row in a table.
+<th>: Defines a header cell in a table.
+<td>: Defines a standard cell in a table.
+Media
+<img>: Embeds an image.
+<audio>: Embeds audio content.
+<video>: Embeds video content.
+<source>: Specifies multiple media resources for <audio> and <video>.
+<track>: Provides text tracks for <video> and <audio>.
+<map>: Defines an image map.
+<area>: Defines a clickable area within an image map.
+<figure>: Represents self-contained content like images or diagrams.
+<figcaption>: Provides a caption for a <figure>.
+Scripting
+<script>: Defines client-side JavaScript.
+<noscript>: Defines alternative content if scripts are not supported or disabled.
+Miscellaneous
+<template>: Holds client-side content that is not rendered but can be used via JavaScript.
+<slot>: Provides placeholders in a web component’s shadow DOM for content distribution.
+<base>: Specifies a base URL for relative URLs.
+<wbr>: Suggests an optional line break within text.
+<data>: Links a piece of content with a machine-readable value.
+<dialog>: Represents a dialog box or interactive component.
+<details>: Represents a disclosure widget from which users can obtain additional information or controls.
+<summary>: Provides a summary or heading for a <details> element.
+<embed>: Embeds external content like multimedia.
+<object>: Embeds external resources such as multimedia or interactive content.
+<progress>: Represents the progress of a task or process.
+<meter>: Represents a scalar value within a known range or a fractional value.
